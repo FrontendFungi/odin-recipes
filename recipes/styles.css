@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: max-content;
+    width: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(194, 187, 187);
+    padding: 152px;
+}
+
+.title h1 {
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    padding: 20px 0px;
+}
+
+h4 {
+    font-size: 20px;
+    padding: 10px 0px;
+}
+
+li {
+    list-style: none;
+    padding: 5px 0px;
+}
